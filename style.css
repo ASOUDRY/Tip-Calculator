@@ -1,0 +1,29 @@
+body {
+	background-color: green;
+}
+#Form {
+	display: flex;
+	flex-direction: column;
+	width: 350px
+}
+
+#top {
+	display: table;
+	margin: 0 auto;
+	color: white;
+	padding: 0;
+	background-color: black;
+}
+
+#center {
+  display: table;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: red;
+}
+
+.row {
+	display: flex;
+	flex-direction: row;
+
+}
